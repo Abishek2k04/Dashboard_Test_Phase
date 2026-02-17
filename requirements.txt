@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+plotly
+joblib
+tensorflow
+xgboost
+google-generativeai
